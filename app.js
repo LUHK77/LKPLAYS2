@@ -1,6 +1,4 @@
 console.log("Hello Wolrd");
-const text = "Ola Boatarde";
-
-const Ovo = 22;
+const text = "Ola vagaba";
 
 
