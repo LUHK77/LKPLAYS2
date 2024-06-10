@@ -1,4 +1,4 @@
 console.log("Hello Wolrd");
-const text = "Ola vagaba";
+const text = "Ola, Bomd dia";
 
 
